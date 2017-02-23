@@ -1,5 +1,9 @@
 # .NET Core Hello World Dependencies
 
+The output is run using [nuget-tree](https://www.npmjs.com/package/nuget-tree)
+
+If you want to scare yourself silly run it with the `--showSystem` flag to show system dependencies. It creates a 100mb file!!
+
 ```
 project.lock.json
 ├─┬ Microsoft.AspNetCore.Server.Kestrel 1.1.0
@@ -465,3 +469,5 @@ project.lock.json
 
 
 ```
+
+## --sho
