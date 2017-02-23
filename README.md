@@ -469,5 +469,3 @@ project.lock.json
 
 
 ```
-
-## --sho
